@@ -4,14 +4,7 @@
 - **V1**: Basic structure and Recruiter Corner.
 - **V2**: Enhanced UI/UX, lavender/indigo dark theme, responsive story cards.
 
-### Features (V2)
-- **IT Girl in AI** Persona
-- **Sticky Navbar**: With smooth hover interactions.
-- **Recruiter Corner**: Database-ready contact form.
-- **AI Playground**: RAG demo UI placeholders.
-- **Story-Mode Projects**: Grid-based project storytelling with tech tags.
-- **Mobile Responsive**
-- **Roadmap Inclusion**: View future V3/V4 plans in the footer.
+
 <img width="1919" height="929" alt="Screenshot 2026-01-25 211148" src="https://github.com/user-attachments/assets/ccf183ae-4d22-4214-954f-1dea7d91fb6a" />
 <img width="1919" height="926" alt="Screenshot 2026-01-25 211210" src="https://github.com/user-attachments/assets/23b787c4-a587-42af-8061-4c4d3c3574fd" />
 <img width="1919" height="927" alt="Screenshot 2026-01-25 211221" src="https://github.com/user-attachments/assets/60147e36-e5b2-419e-8b1f-12cea8c79c04" />
